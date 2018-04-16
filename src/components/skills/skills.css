@@ -1,0 +1,97 @@
+.skills {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.image-container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  width: 80%;
+}
+
+.text {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.react-image {
+  margin-top: 40px;
+  background-image: url('../../assets/react-1.svg');
+  height: 100px;
+  width: 100px;
+  transition: transform .2s; /* Animation */
+  background-size: cover;
+}
+
+.react-image:hover,
+.redux-image:hover,
+.css-image:hover,
+.express-image:hover,
+.postgres-image:hover,
+.node-image:hover,
+.javascript-image:hover {
+ transform: scale(1.5);
+ cursor: pointer;
+}
+
+.redux-image {
+  margin-top: 40px;
+  background-image: url('../../assets/redux.png');
+  transition: transform .2s; /* Animation */
+  height: 100px;
+  width: 100px;
+  background-size: cover;
+}
+
+.css-image {
+  margin-top: 40px;
+  background-image: url('../../assets/CSS.jpg');
+  transition: transform .2s; /* Animation */
+  height: 100px;
+  width: 100px;
+  background-size: cover;
+}
+
+.express-image {
+  margin-top: 40px;
+  background-image: url('../../assets/express.png');
+  transition: transform .2s; /* Animation */
+  height: 100px;
+  width: 300px;
+  background-size: cover;
+}
+
+.postgres-image {
+  margin-top: 40px;
+  background-image: url('../../assets/postgres.png');
+  transition: transform .2s; /* Animation */
+  height: 100px;
+  width: 100px;
+  background-size: cover;
+}
+
+.node-image {
+  margin-top: 40px;
+  background-image: url('../../assets/node.png');
+  transition: transform .2s; /* Animation */
+  height: 100px;
+  width: 100px;
+  background-size: cover;
+}
+
+.javascript-image {
+  margin-top: 40px;
+  background-image: url('../../assets/JavaScript.png');
+  transition: transform .2s; /* Animation */
+  height: 100px;
+  width: 100px;
+  background-size: cover;
+}
+
+.skills-title {
+  font-size: 50px;
+  margin-top: 50px;
+  text-decoration: underline;
+}

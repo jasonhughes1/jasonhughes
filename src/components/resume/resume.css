@@ -1,0 +1,14 @@
+
+.resume-container {
+  display: flex;
+  justify-content: center;
+}
+
+.resume {
+  display: flex;
+  margin: 10px;
+  height: 300px;
+  width: 20%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
