@@ -13,9 +13,6 @@ class App extends Component {
         <header className="App-header">
           <h1 className="my-name">Jason Hughes</h1>
           <h3 className="my-title">Software Engineer</h3>
-          <div className="image-container">
-          <img src={headshot} className="my-image"/>
-        </div>
         <Buttons />
         </header>
         <Skills />

@@ -38,15 +38,6 @@ h2 {
   align-items: center;
 }
 
-.my-image {
-  border-radius: 5px;
-  display: flex;
-  margin: 10px;
-  height: 300px;
-  width: 20%;
-  background-size: contain;
-  background-repeat: no-repeat;
-}
 
 @media (max-width: 750px) {
   .my-image {
