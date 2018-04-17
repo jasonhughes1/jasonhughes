@@ -18,6 +18,7 @@ h2 {
 }
 
 .my-title {
+  margin-top: -80px;
   font-size: 50px;
   color: white;
 }

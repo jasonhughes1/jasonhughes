@@ -1,0 +1,37 @@
+.contact-me {
+  text-decoration: underline;
+}
+
+.contact-title {
+  margin-top: 10px;
+}
+
+.contact-info {
+  margin-top: -10px;
+  padding: 20px;
+}
+
+.contact-container {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: white;
+}
+
+.contact-section {
+  background-image:url('../../assets/clouds.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.phone,
+.email,
+.location {
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 40px;
+  width: 40px;
+}

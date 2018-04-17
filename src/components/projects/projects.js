@@ -10,6 +10,7 @@ class Projects extends Component {
           <div className="salaries-info">
             <h2>Turing Salaries</h2>
           <a href="https://github.com/jasonhughes1/Turing-Salaries" className="salaries">
+          <h4>Github Repository</h4>
           <div className="github-image"></div>
           </a>
             <a href="https://turingsalaries.herokuapp.com/" className="salaries">Live app hosted on Heroku
@@ -23,6 +24,7 @@ class Projects extends Component {
           <h2>Swapi-Box</h2>
             <a href="https://github.com/jasonhughes1/SwapiBox"
             className="swapi">
+              <h4>Github Repository</h4>
               <div className="github-image"></div>
             </a>
             <p>Swapi Box was a solo project in the 3rd module of Turing. I used the Star Wars API to get the data I needed. The crawl portion of the header was an especially fun CSS challenge. Built with : React, and React-Router</p>
@@ -34,6 +36,7 @@ class Projects extends Component {
           <h2>Headcount</h2>
           <a href="https://github.com/jasonhughes1/HeadCount"
           className="headcount">
+            <h4>Github Repository</h4>
             <div className="github-image"></div>
           </a>
           <p>Headcount was built by importing files containing various educational stats from districts within Colorado by year, per district. Built with: React</p>
@@ -45,6 +48,7 @@ class Projects extends Component {
           <h2>Movie Tracker</h2>
           <a href="https://github.com/jasonhughes1/Movie-Tracker1"
           className="movie">
+            <h4>Github Repository</h4>
             <div className="github-image"></div>
         </a>
         <p>Movie Tracker was built by fetching data from the MoviesDB API. Built with: Redux, React-Router</p>

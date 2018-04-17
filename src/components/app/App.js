@@ -5,6 +5,7 @@ import Buttons from '../buttons/buttons.js';
 import Projects from '../projects/projects.js';
 import headshot from '../../assets/headshot.jpg';
 import ScrollUpButton from "react-scroll-up-button";
+import Contact from '../contact/contact';
 
 class App extends Component {
   render() {
@@ -17,6 +18,7 @@ class App extends Component {
         </header>
         <Skills />
         <Projects />
+        <Contact />
         <ScrollUpButton />
       </div>
     );
