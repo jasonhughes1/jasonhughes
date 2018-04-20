@@ -1,0 +1,58 @@
+.why-container {
+  border-top: 10px solid white;
+  background-color: #3E3F43;
+  border-bottom: 10px solid white;
+}
+
+.company-logo {
+  height: 200px;
+  width: 25%;
+}
+
+.why-title {
+  margin-top: 40px;
+  color: #FF7805;
+}
+
+.des-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.award-image {
+  width: 40%;
+  height: 100px;
+}
+
+p {
+  margin-top: 10px;
+  margin-bottom: 20px;
+
+}
+
+.des-1,
+.des-2,
+.des-3 {
+  width: 25%;
+}
+
+.des-2-title,
+.des-3-title {
+  color: #FF7805;
+}
+
+
+
+@media (max-width: 550px) {
+  .company-logo {
+    width: 80%;
+  }
+  .des-container {
+    flex-direction: column;
+  }
+  .des-1,
+  .des-2,
+  .des-3 {
+    width: 80%;
+  }
+}

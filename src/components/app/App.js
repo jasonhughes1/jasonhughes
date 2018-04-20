@@ -3,6 +3,8 @@ import './App.css';
 import Skills from '../skills/skills.js';
 import Buttons from '../buttons/buttons.js';
 import Projects from '../projects/projects.js';
+import Why from '../why/why.js';
+import Whyme from '../whyme/whyme.js';
 import headshot from '../../assets/headshot.jpg';
 import ScrollUpButton from "react-scroll-up-button";
 import Contact from '../contact/contact';
@@ -16,6 +18,8 @@ class App extends Component {
           <h3 className="my-title">Software Engineer</h3>
         <Buttons />
         </header>
+        <Why />
+        <Whyme />
         <Skills />
         <Projects />
         <Contact />
