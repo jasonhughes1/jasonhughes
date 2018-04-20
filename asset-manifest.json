@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.d72895a4.css",
-  "main.css.map": "static/css/main.d72895a4.css.map",
-  "main.js": "static/js/main.c1ace1ed.js",
-  "main.js.map": "static/js/main.c1ace1ed.js.map",
+  "main.css": "static/css/main.a4b50f01.css",
+  "main.css.map": "static/css/main.a4b50f01.css.map",
+  "main.js": "static/js/main.d7805f73.js",
+  "main.js.map": "static/js/main.d7805f73.js.map",
   "static/media/CSS.jpg": "static/media/CSS.385b1cd1.jpg",
   "static/media/JavaScript.png": "static/media/JavaScript.0cded3a3.png",
   "static/media/Resume.pdf": "static/media/Resume.f3dc040a.pdf",
@@ -10,8 +10,8 @@
   "static/media/email.svg": "static/media/email.8e626ada.svg",
   "static/media/express.png": "static/media/express.0bf7e90f.png",
   "static/media/github.png": "static/media/github.dd24e5cb.png",
+  "static/media/golden.jpg": "static/media/golden.92010d18.jpg",
   "static/media/headcount.png": "static/media/headcount.b5c8e99c.png",
-  "static/media/headerpic.jpg": "static/media/headerpic.638bc0e3.jpg",
   "static/media/headshot.jpg": "static/media/headshot.fe25d528.jpg",
   "static/media/linkedin.png": "static/media/linkedin.c1a3ad44.png",
   "static/media/movie.png": "static/media/movie.36f69d7c.png",
@@ -20,5 +20,6 @@
   "static/media/react-1.svg": "static/media/react-1.876a8325.svg",
   "static/media/redux.png": "static/media/redux.b4e23a50.png",
   "static/media/salaries.png": "static/media/salaries.d70db71e.png",
-  "static/media/swapi.png": "static/media/swapi.d08cd6dc.png"
+  "static/media/swapi.png": "static/media/swapi.d08cd6dc.png",
+  "static/media/wowzalogo.png": "static/media/wowzalogo.2ffe128f.png"
 }
