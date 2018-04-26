@@ -18,8 +18,8 @@ class App extends Component {
           <h3 className="my-title">Software Engineer</h3>
         <Buttons />
         </header>
-        <Why />
-        <Whyme />
+        {/* <Why /> */}
+        {/* <Whyme /> */}
         <Skills />
         <Projects />
         <Contact />

@@ -1,5 +1,7 @@
 .whyme-container {
-  background-color: #FF7805;
+  box-shadow: 1px 1px 1px 1px;
+  width: 80%;
+  background-color: #7DBADC;
 }
 
 .whyme-title {

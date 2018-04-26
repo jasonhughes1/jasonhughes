@@ -29,7 +29,8 @@ h2 {
 }
 
 .App-header {
-  background-image:url('../../assets/golden.jpg');
+
+  background-image:url('../../assets/headerpic.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
