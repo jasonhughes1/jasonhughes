@@ -8,8 +8,17 @@ import Whyme from '../whyme/whyme.js';
 import headshot from '../../assets/headshot.jpg';
 import ScrollUpButton from "react-scroll-up-button";
 import Contact from '../contact/contact';
+import { Scroll } from 'react-scroll'
 
 class App extends Component {
+
+scroll() {
+  var Scroll = require('react-scroll');
+  var scroll = Scroll.animateScroll;
+
+  scroll.scrollTo(650);
+}
+
   render() {
     return (
       <div className="App">
@@ -18,6 +27,11 @@ class App extends Component {
           <h3 className="my-title">Software Engineer</h3>
         <Buttons />
         </header>
+        <div onClick={() => this.scroll()}>
+        <section id="section07" className="demo">
+          <a href="#section08"><span></span><span></span><span></span></a>
+      </section>
+    </div>
         {/* <Why /> */}
         {/* <Whyme /> */}
         <Skills />

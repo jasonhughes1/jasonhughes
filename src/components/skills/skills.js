@@ -5,7 +5,7 @@ import HorizontalScroll from 'react-scroll-horizontal'
 class Skills extends Component {
   render() {
     return (
-      <div className="skills">
+      <div  id="skills" className="skills">
         <h1 className='skills-title'>Skills</h1>
       <div className='image-container'>
         <div className='javascript-image'></div>
